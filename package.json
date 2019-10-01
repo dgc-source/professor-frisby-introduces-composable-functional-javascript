@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "immutable-ext": "^1.1.5",
+    "util": "^0.12.1"
+  }
+}
